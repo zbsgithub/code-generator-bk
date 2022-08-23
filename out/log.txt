@@ -1,0 +1,61 @@
+﻿
+
+
+
+
+
+
+        
+        
+        
+                        
+                        
+            *#
+                                    
+                    
+                        
+                        
+            *#
+                                    
+                    
+                        
+                        
+            *#
+                                    
+                    
+                        
+                        
+            *#
+                                    
+                    
+                        
+                        
+            *#
+                                    
+                    
+
+Created dir: D:\新codeGen\code-generator\code-generator2\out/src/main/java/com/gzdata/core/service/
+Created dir: D:\新codeGen\code-generator\code-generator2\out/src/main/java/com/gzdata/core/dao/
+Created dir: D:\新codeGen\code-generator\code-generator2\out/src/main/java/com/gzdata/core/model/
+Created dir: D:\新codeGen\code-generator\code-generator2\out/src/main/java/com/gzdata/core/controller/data/
+Created dir: D:\新codeGen\code-generator\code-generator2\out/src/main/java/com/gzdata/core/dto/
+Created dir: D:\新codeGen\code-generator\code-generator2\out/src/main/java/com/gzdata/core/qo/
+Created dir: D:\新codeGen\code-generator\code-generator2\out/src/main/java/com/gzdata/core/qo/jqgrid/
+
+			
+	
+
+				
+		
+	
+		
+	
+		
+	
+		
+
+		#
+			
+		#	
+
+		#	
